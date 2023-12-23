@@ -1,8 +1,8 @@
 # exercise 14.
 
-a = int(input("Enter number a "))
-b = int(input("Enter number b "))
-c = int(input("Enter number c "))
+a = float(input("Enter number a "))
+b = float(input("Enter number b "))
+c = float(input("Enter number c "))
 
 list = []
 list = sorted(list)
