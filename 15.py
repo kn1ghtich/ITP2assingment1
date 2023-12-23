@@ -1,4 +1,5 @@
 # exercise 15.
+# didn't understand what the diff of 4 numbers must be
 
 a = int(input("Enter number a: "))
 b = int(input("Enter number b: "))
@@ -10,9 +11,10 @@ multiple = 1
 for i in list:
     sum += i
     multiple *= i
+d = a - b - c - d
 print("Sum equal to " + str(sum))
 print("Multiple equal to " + str(multiple))
-
+print("Difference equal to " + str(d))
 
 """
 #or 

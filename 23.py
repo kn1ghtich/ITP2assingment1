@@ -1,5 +1,6 @@
 import math
 #exercise 23.
+
 x = float(input("Enter x: "))
 y = float(input("Enter y: "))
 z = float(input("Enter z: "))
