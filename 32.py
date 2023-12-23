@@ -1,6 +1,6 @@
 import math
-
 #exercise 32.
+
 x1 = float(input('Enter x1: '))
 y1 = float(input('Enter y1: '))
 x2 = float(input('Enter x2: '))

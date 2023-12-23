@@ -16,4 +16,13 @@ for i in range(3):
     list.append(int(input("Enter a number: ")))
 list = sorted(list)
 print("Sorted list " + str(list))
+
+# or 
+if a > b:
+    a, b = b, a
+if b > c:
+    b, c = c, b
+if a > b:
+    a, b = b, a
+print("Sorted values by increasing", a, b, c)
 """
