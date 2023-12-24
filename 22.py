@@ -1,6 +1,6 @@
 import math
 #exercise 22.
-
+#function
 x = float(input("Enter x: "))
 y = float(input("Enter y: "))
 z = float(input("Enter z: "))
